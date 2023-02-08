@@ -1,6 +1,6 @@
 #include <iostream>
 #include "function1.h"
-#include <bits/stdc++.h>
+
 using namespace std;
  
 // Driver code
